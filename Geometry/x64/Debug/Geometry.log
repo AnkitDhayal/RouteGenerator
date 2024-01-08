@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Geometry.cpp
+  Point3D.cpp
+  Generating Code...
+     Creating library D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\x64\Debug\Geometry.lib and object D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\x64\Debug\Geometry.exp
+  Geometry.vcxproj -> D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\x64\Debug\Geometry.dll
