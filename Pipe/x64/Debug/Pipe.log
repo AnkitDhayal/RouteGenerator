@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Pipe.cpp
+D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\Pipe\Pipe.h(19,21): warning C4251: 'Pipe::mVertices': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'Pipe'
+  (compiling source file '/Pipe.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.39.33321\include\vector(436,7):
+  see declaration of 'std::vector<float,std::allocator<float>>'
+  
+D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\Pipe\Pipe.h(20,21): warning C4251: 'Pipe::mColor': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'Pipe'
+  (compiling source file '/Pipe.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.39.33321\include\vector(436,7):
+  see declaration of 'std::vector<float,std::allocator<float>>'
+  
+  Generating Code...
+     Creating library D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\x64\Debug\Pipe.lib and object D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\x64\Debug\Pipe.exp
+  Pipe.vcxproj -> D:\Ankit_Workspace\EvaluationWeekProject\RouteGenerator\x64\Debug\Pipe.dll
